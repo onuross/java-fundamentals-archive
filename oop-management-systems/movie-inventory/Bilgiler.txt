@@ -1,0 +1,7 @@
+1997,Titanik,Romantik,James Cameron,{(Leonardo DiCaprio,Erkek,ABD)(Kate Winslet,Kadın,İngiltere)}
+2004,Not Defteri,Dram,Romantik,Nick Cassavetes,{(Ryan Gosling,Erkek,Kanada)(Rachel McAdams,Kadın,Kanada)}
+2008,Kara Şövalye,Aksiyon,Dram,Christopher Nolan,{(Christian Bale,Erkek,İngiltere)(Heath Ledger,Erkek,Avustralya)}
+2010,Başlangıç,Bilim Kurgu,Aksiyon,Christopher Nolan,{(Leonardo DiCaprio,Erkek,ABD)(Joseph Gordon-Levitt,Erkek,ABD)(Ellen Page,Kadın,Kanada)}
+2015,Marsta Kayıp,Bilim Kurgu,Aksiyon,Ridley Scott,{(Matt Damon,Erkek,ABD)(Jessica Chastain,Kadın,ABD)}
+2019,Joker,Dram,Suç,Todd Phillips,{(Joaquin Phoenix,Erkek,ABD)(Robert De Niro,Erkek,ABD)}
+2021,Dune,Bilim Kurgu,Macera,Denis Villeneuve,{(Timothée Chalamet,Erkek,ABD)(Rebecca Ferguson,Kadın,İsveç)}
