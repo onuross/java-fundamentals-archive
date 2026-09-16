@@ -45,7 +45,7 @@ java MovieInventoryApp
 
 ## 📜 License
 
-Distributed under the **MIT License**. See [LICENSE] for full details.
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for full details.
 
 
 
