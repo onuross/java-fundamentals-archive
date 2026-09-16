@@ -15,8 +15,8 @@ java-fundamentals-archive/
 ├── games-and-demos/
 │   └── fruit-slot-machine/   # Dynamic CLI simulation with probability-based payouts
 └── oop-management-systems/
-├── movie-inventory/      # Doubly linked list database engine with file I/O
-└── vehicle-management/   # Inheritance trees, polymorphism, and deep copy patterns
+    ├── movie-inventory/      # Doubly linked list database engine with file I/O
+    └── vehicle-management/   # Inheritance trees, polymorphism, and deep copy patterns
 ```
 
 ## 📂 Modules & Technical Specifications
